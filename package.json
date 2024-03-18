@@ -1,0 +1,17 @@
+{
+  "name": "challenge-week-18",
+  "version": "1.0.0",
+  "description": "A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2"
+  }
+}
